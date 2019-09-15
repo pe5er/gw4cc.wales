@@ -1,4 +1,6 @@
-
+---
+title: News
+---
 
 # New Website
 The Gower/Gwyr Contest Club now has a new website, gw4cc.wales. The site will be regularly updated with news and events
