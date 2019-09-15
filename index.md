@@ -26,3 +26,5 @@ The Gower/Gwyr Contest Club is an Amateur Radio contesting club located in the G
 * Represent the RSGB in international contests and special events, such as:
   * [IARU HF Championships – GR2HQ](http://www.arrl.org/iaru-hf-championship)
   * [Football World Cup 2018 – GW6XX](https://dx-world.net/football-world-cup-2018/)
+
+![Contest Site](/media/Shack-Antenna-Superimposed.jpg "Contest Site")
