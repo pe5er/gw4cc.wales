@@ -32,18 +32,3 @@ title: Gallery
   <img data-src="https://lh3.googleusercontent.com/51Zis6qnwU_h_b4h2MUXbzBcORcBkoSqR-xMp9EYCmSUbC4bzMZgiOzWHh2ScgsAn25ewMjtBfaBjQ0SLtJHKY_3OkB2lwCLEmK-Xh9YSAPLflknzkQVvyVYp1_U_yiFqjn66lctHeM=w5344-h3006" src="" alt="" />
   <img data-src="https://lh3.googleusercontent.com/4am0l_cYjixHH-KgEuAGcOm9kTkEK8K0fqjezWZDi9rCmD994HXgtmjFqMt4bOjTCwc0GeJ6oyy8GmCx9j_lFhB3fsWCT0TztCmYBZApO3kMFcRa9ppSpUmnr0zalSBTiSxpPffFlwc=w5344-h3006" src="" alt="" />
 </div>
-
-![Inside the shack](/media/iaru2018/iaru2018(1).jpg "Inside the shack")
-
-![Tent](/media/iaru2018/iaru2018(2).jpg "Tent")
-
-![Station at Night](/media/iaru2018/iaru2018(3).jpg "Station at Night")
-
-![Inside the Shack](/media/iaru2018/iaru2018(4).jpg "Inside the Shack")
-
-![SteppIR](/media/iaru2018/iaru2018(5).jpg "SteppIR")
-
-![Catering](/media/iaru2018/iaru2018(6).jpg "Catering")
-
-![Station During the Day](/media/iaru2018/iaru2018(7).jpg "Station During the Day")
-
