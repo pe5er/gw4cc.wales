@@ -28,6 +28,3 @@ The Gower/Gwyr Contest Club is an Amateur Radio contesting club located in the G
   * [Football World Cup 2018 – GW6XX](https://dx-world.net/football-world-cup-2018/)
 
 ![Contest Site](/media/Shack-Antenna-Superimposed.jpg "Contest Site")
-
-
-Test
